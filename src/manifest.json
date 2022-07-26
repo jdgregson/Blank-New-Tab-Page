@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Blank New Tab Page",
   "version": "0.0.1",
-  "description": "Blank new tab page. Background is white or dark gray, depending on your system theme.",
+  "description": "An empty new tab page, free of distractions, tracking, and advertising.",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
